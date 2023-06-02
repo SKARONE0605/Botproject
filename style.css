@@ -1,0 +1,89 @@
+body{
+    margin: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.text{ 
+    display: flex;
+    margin-left: 40px;
+    justify-content: start;
+    font-size: 28px;
+    
+
+}
+.content_header{ 
+    display: flex  ;
+}
+.about{ 
+    margin-left: 45px;
+    border: 3px solid #006DEE;
+    background-color: #006DEE;
+    border-radius: 20px;
+    padding: 10px;
+    opacity: 0.7;
+}
+.img {
+    width: 105px;
+    height: 105px;    
+}
+.usl{ 
+    border: 3px solid #006DEE;
+    background-color: #006DEE;
+    border-radius: 20px;
+    padding: 10px;
+    opacity: 0.7;
+}
+header{ 
+    background-color: #D9D9D9;
+
+}
+.aboutus{ 
+    text-align: center;
+    font-size: 50px;
+}
+.maintext{
+    text-align: center;
+    font-size: 40px;
+} 
+.uslugi{ 
+    text-align: center;
+    font-size: 50px;
+    margin-top: 70px;
+}
+.slova { 
+    display: flex;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.big{ 
+    font-size: 50px;
+}
+.med { 
+    font-size: 30px;
+}
+.slova2 { 
+    display: flex;
+    margin-left: 70px;
+    margin-top: 50px;
+}
+.usl_txt { 
+    margin-left: 40px;
+}
+.slova3 { 
+    display: flex;
+    margin-left: 80px;
+    margin-top: 50px;
+}
+footer{ 
+    display: block;
+    color: black;
+    background-color:  #D9D9D9;
+    padding: 15px;
+} 
+span a { 
+    color: black;
+    text-decoration: none;
+}
+footer a, span { 
+ font-size: 30px; 
+ margin-left: 30px;
+}
